@@ -1,4 +1,4 @@
-package com.skillsoft.inheritanceandinterfaces;
+package com.skillsoft.inheritandinterfaces;
 
 public class CommercialProperty extends Property {
 
